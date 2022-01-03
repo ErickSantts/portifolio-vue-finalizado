@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8838"],{"54cf":function(n,e,c){"use strict";c.r(e);var d=c("7a23");function i(n,e,c,i,s,o){return Object(d["t"])(),Object(d["f"])("div",null," Bem vindos curiosidades ")}var s={name:"Curiosidades"},o=c("6b0d"),r=c.n(o);const t=r()(s,[["render",i]]);e["default"]=t}}]);
+//# sourceMappingURL=chunk-2d0c8838.fa9801ce.js.map
